@@ -27,10 +27,10 @@ Kurulum gerekmez, indirdiğiniz `.exe` dosyası programın kendisidir.
 ### Mac
 1. İndirdiğiniz `.dmg` dosyasını çift tıklayın.
 2. Açılan pencerede **ARC Mail Arsiv** simgesini yanındaki **Applications** (Uygulamalar) klasörüne sürükleyin.
-3. **Uygulamalar** klasöründe **ARC Mail Arsiv**'e **sağ tıklayın → Aç → Aç**.
-4. "Açılamadı" ya da "doğrulanamadı" uyarısı çıkarsa: **Sistem Ayarları → Gizlilik ve Güvenlik** sayfasının altına inin ve **Yine de Aç** düğmesine basın. Mac şifrenizi sorarsa girin.
+3. **Uygulamalar** klasöründe **ARC Mail Arsiv**'i çift tıklayarak açın.
+4. "İnternetten indirilmiş bir uygulama, açmak istediğinizden emin misiniz?" sorusu çıkarsa **Aç**'a basın. Bu soru yalnız ilk açılışta görünür.
 
-Bu uyarılar programın Apple/Microsoft'a ücretli olarak imzalatılmamasından kaynaklanır; yalnız ilk açılışta görünür.
+Windows'taki uyarılar programın Microsoft'a ücretli olarak imzalatılmamasından kaynaklanır; yalnız ilk açılışta görünür.
 
 ## 3. Yedeği alın
 
