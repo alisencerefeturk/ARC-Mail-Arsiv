@@ -40,11 +40,12 @@ Windows'taki uyarılar programın Microsoft'a ücretli olarak imzalatılmamasın
    - Windows: `C:\ARC-Mail-Arsivi\<e-posta adresiniz>`
    - Mac: ana klasörünüzde `ARC-Mail-Arsivi`
    - Masaüstü, Belgeler, OneDrive, iCloud, harici disk ve ağ diskleri kabul edilmez.
-3. **Arşivlemeyi başlat**'a basın.
+3. **Neyi arşivleyelim?** bölümünde hangi yılları ve klasörleri alacağınızı seçebilirsiniz. **Emin değilseniz hepsini seçili bırakın**; seçmedikleriniz daha sonra hiçbir yerde olmayacak.
+4. **Arşivlemeyi başlat**'a basın.
    - Posta kutunuzun büyüklüğüne göre birkaç dakikadan birkaç saate kadar sürebilir.
    - Bu sürede bilgisayarı kapatmayın. Dizüstü bilgisayarı şarja takın. Program bilgisayarın uykuya geçmesini kendisi engeller.
    - Ara vermeniz gerekirse **Durdur**'a basın. Programı yeniden açıp aynı e-posta ve şifreyle girdiğinizde **kaldığı yerden devam eder**; indirilenler tekrar inmez.
-4. Ekranda **"Yandex'te şu an okunamayan: N ileti"** görebilirsiniz. Yandex'teki arıza nedeniyle bazı eski iletiler şu an sunucudan okunamıyor. Program bunları atlayıp listeye alır. Yandex düzelince programı tekrar açıp **Eksikleri tamamla**'ya basmanız yeterli olacak.
+5. Ekranda **"Yandex'te şu an okunamayan: N ileti"** görebilirsiniz. Yandex'teki arıza nedeniyle bazı eski iletiler şu an sunucudan okunamıyor. Program bunları atlayıp listeye alır. Yandex düzelince programı tekrar açıp **Eksikleri tamamla**'ya basmanız yeterli olacak.
 
 ## 4. Thunderbird'e ekleyin
 
