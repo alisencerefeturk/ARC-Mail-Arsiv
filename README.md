@@ -53,7 +53,8 @@ Arşivi okumak için Thunderbird kullanılır.
 
 1. Thunderbird yüklü değilse [thunderbird.net/tr](https://www.thunderbird.net/tr/) adresinden yükleyin, **bir kez açıp kapatın**.
 2. Thunderbird **kapalıyken** ARC Mail Arşiv'in son ekranında **Thunderbird'e ekle**'ye basın.
-3. Thunderbird'ü açın. Sol tarafta **Yerel Klasörler** altında **Yandex Arsivi - <adınız>** klasöründe eski postalarınız görünür.
+   - Program önce arşivi kontrol eder; ekranda **Thunderbird'e ekleniyor…** yazar. Büyük arşivlerde bu birkaç dakika sürebilir. Program donmadı, kapatmayın.
+3. Bitince Thunderbird kendiliğinden açılır (açılmazsa siz açın). Sol tarafta **Yerel Klasörler** altında **Yandex Arsivi - <adınız>** klasöründe eski postalarınız görünür. Bir klasörü ilk açtığınızda Thunderbird onu tarar; büyük klasörlerde bu birkaç dakika sürebilir.
 4. **İsteğe bağlı:** Daha önce Yandex hesabınızı Thunderbird'e IMAP veya POP ile eklediyseniz kaldırabilirsiniz. Böyle bir hesabınız yoksa ya da kaldırmak istemiyorsanız bu adımı atlayın.
    - Hesaba sağ tıklayın → **Ayarlar** → sol altta **Hesap İşlemleri** → **Hesabı Kaldır**.
    - **"İleti verilerini kaldır" kutusunu işaretlemeyin**, sonra **Kaldır**'a basın.
@@ -64,13 +65,13 @@ Arşivi okumak için Thunderbird kullanılır.
 Arşiv, çalıştırdığınız güne kadarki mailleri içerir. Sonra gelen mailler arşive kendiliğinden eklenmez. IT, mail geçişinden önce size tekrar hatırlatacak. O zaman:
 
 1. Thunderbird'ü kapatın.
-2. ARC Mail Arşiv'i açın ve aynı e-posta adresiyle girin. Uygulama şifrenizi kaydetmediyseniz Yandex'te yeni bir tane oluşturun.
+2. ARC Mail Arşiv'i açın ve aynı e-posta adresiyle, Yandex şifrenizle girin. Program uygulama şifresi isterse ekrandaki adımları izleyin.
 3. **Arşivlemeyi başlat**'a basın. Yalnızca yeni mailler indirilir, bu yüzden daha kısa sürer.
 4. Bitince Thunderbird'ü açın. Yeni mailler aynı arşivde görünür.
 
 ## Önemli
 
-- **Yandex hesabınızı kapatmayın** ve postalarınızı Yandex'ten silmeyin. Okunamayan iletiler daha sonra oradan indirilecek.
+- Postalarınızı Yandex'ten silmeyin. Okunamayan iletiler daha sonra oradan indirilecek.
 - **Arşiv klasörünü silmeyin, taşımayın, adını değiştirmeyin.** Thunderbird postaları doğrudan bu klasörden okur.
 - **Thunderbird'de arşivdeki bir postayı silerseniz arşivden de kalıcı olarak silinir.**
 - Şifreniz hiçbir dosyaya kaydedilmez. Program Yandex'teki postalarınızı değiştirmez ve silmez, yalnız okur.
