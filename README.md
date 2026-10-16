@@ -55,10 +55,9 @@ Arşivi okumak için Thunderbird kullanılır.
 2. Thunderbird **kapalıyken** ARC Mail Arşiv'in son ekranında **Thunderbird'e ekle**'ye basın.
    - Program önce arşivi kontrol eder; ekranda **Thunderbird'e ekleniyor…** yazar. Büyük arşivlerde bu birkaç dakika sürebilir. Program donmadı, kapatmayın.
 3. Bitince Thunderbird kendiliğinden açılır (açılmazsa siz açın). Sol tarafta **Yerel Klasörler** altında **Yandex Arsivi - <adınız>** klasöründe eski postalarınız görünür. Bir klasörü ilk açtığınızda Thunderbird onu tarar; büyük klasörlerde bu birkaç dakika sürebilir.
-4. **İsteğe bağlı:** Daha önce Yandex hesabınızı Thunderbird'e IMAP veya POP ile eklediyseniz kaldırabilirsiniz. Böyle bir hesabınız yoksa ya da kaldırmak istemiyorsanız bu adımı atlayın.
+4. Daha önce Yandex hesabınızı Thunderbird'e IMAP veya POP ile eklediyseniz **kaldırın**. Böyle bir hesabınız yoksa bu adımı atlayın.
    - Hesaba sağ tıklayın → **Ayarlar** → sol altta **Hesap İşlemleri** → **Hesabı Kaldır**.
-   - **"İleti verilerini kaldır" kutusunu işaretlemeyin**, sonra **Kaldır**'a basın.
-   - Hesabı POP ile kurduysanız ve emin değilseniz kaldırmayın; IT'ye sorun.
+   - **"İleti verilerini kaldır" kutusunu da işaretleyin**, sonra **Kaldır**'a basın. Eski kopya bilgisayarınızda yer kaplamaz.
 
 ## 5. Mail geçişinden önce bir kez daha çalıştırın
 
