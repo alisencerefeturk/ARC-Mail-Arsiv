@@ -43,7 +43,7 @@ Windows'taki uyarılar programın Microsoft'a ücretli olarak imzalatılmamasın
 3. **Neyi arşivleyelim?** bölümünde hangi yılları ve klasörleri alacağınızı seçebilirsiniz. **Emin değilseniz hepsini seçili bırakın**; seçmedikleriniz daha sonra hiçbir yerde olmayacak.
 4. **Arşivlemeyi başlat**'a basın.
    - Posta kutunuzun büyüklüğüne göre birkaç dakikadan birkaç saate kadar sürebilir.
-   - Bu sürede bilgisayarı kapatmayın. Dizüstü bilgisayarı şarja takın. Program bilgisayarın uykuya geçmesini kendisi engeller.
+   - Bu sürede bilgisayarı kapatmayın. Dizüstü bilgisayarı şarja takın. Program, arşivleme bitene kadar bilgisayarın uykuya geçmesini kendisi engeller; şarja takıp bırakabilirsiniz. **Dizüstünün kapağını kapatmayın.**
    - Ara vermeniz gerekirse **Durdur**'a basın. Programı yeniden açıp aynı e-posta ve şifreyle girdiğinizde **kaldığı yerden devam eder**; indirilenler tekrar inmez.
 5. Ekranda **"Yandex'te şu an okunamayan: N ileti"** görebilirsiniz. Yandex'teki arıza nedeniyle bazı eski iletiler şu an sunucudan okunamıyor. Program bunları atlayıp listeye alır. Yandex düzelince programı tekrar açıp **Eksikleri tamamla**'ya basmanız yeterli olacak.
 
@@ -54,6 +54,19 @@ Arşivi okumak için Thunderbird kullanılır.
 1. Thunderbird yüklü değilse [thunderbird.net/tr](https://www.thunderbird.net/tr/) adresinden yükleyin, **bir kez açıp kapatın**.
 2. Thunderbird **kapalıyken** ARC Mail Arşiv'in son ekranında **Thunderbird'e ekle**'ye basın.
 3. Thunderbird'ü açın. Sol tarafta **Yerel Klasörler** altında **Yandex Arsivi - <adınız>** klasöründe eski postalarınız görünür.
+4. **İsteğe bağlı:** Daha önce Yandex hesabınızı Thunderbird'e IMAP veya POP ile eklediyseniz kaldırabilirsiniz. Böyle bir hesabınız yoksa ya da kaldırmak istemiyorsanız bu adımı atlayın.
+   - Hesaba sağ tıklayın → **Ayarlar** → sol altta **Hesap İşlemleri** → **Hesabı Kaldır**.
+   - **"İleti verilerini kaldır" kutusunu işaretlemeyin**, sonra **Kaldır**'a basın.
+   - Hesabı POP ile kurduysanız ve emin değilseniz kaldırmayın; IT'ye sorun.
+
+## 5. Mail geçişinden önce bir kez daha çalıştırın
+
+Arşiv, çalıştırdığınız güne kadarki mailleri içerir. Sonra gelen mailler arşive kendiliğinden eklenmez. IT, mail geçişinden önce size tekrar hatırlatacak. O zaman:
+
+1. Thunderbird'ü kapatın.
+2. ARC Mail Arşiv'i açın ve aynı e-posta adresiyle girin. Uygulama şifrenizi kaydetmediyseniz Yandex'te yeni bir tane oluşturun.
+3. **Arşivlemeyi başlat**'a basın. Yalnızca yeni mailler indirilir, bu yüzden daha kısa sürer.
+4. Bitince Thunderbird'ü açın. Yeni mailler aynı arşivde görünür.
 
 ## Önemli
 
